@@ -1,4 +1,4 @@
-<h3 align="center">Hi there, I'm Ömer</h3>
+<h3>Hi there, I'm Ömer</h3>
 
 - 📚 I'm studying at Mersin University
 - 💾 I'm currently learning everything 😊
