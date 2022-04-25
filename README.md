@@ -2,7 +2,6 @@
 
 - 📚 I'm studying at Mersin University
 - 💾 I'm currently learning everything 😊
-- ⚡ Fun fact: I love to play football, listen music and watch series
 - 📧 How to you reach me : yuce.omer@outlook.com
 - 🌅 🍺
 
